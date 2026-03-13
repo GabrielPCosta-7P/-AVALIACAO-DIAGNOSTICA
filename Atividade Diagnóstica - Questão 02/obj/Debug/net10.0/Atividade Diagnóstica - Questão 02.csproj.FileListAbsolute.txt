@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\bin\Debug\net10.0\Atividade Diagnóstica - Questão 02.exe
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\bin\Debug\net10.0\Atividade Diagnóstica - Questão 02.deps.json
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\bin\Debug\net10.0\Atividade Diagnóstica - Questão 02.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\bin\Debug\net10.0\Atividade Diagnóstica - Questão 02.dll
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\bin\Debug\net10.0\Atividade Diagnóstica - Questão 02.pdb
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.dll
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\refint\Atividade Diagnóstica - Questão 02.dll
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.pdb
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\Atividade Diagnóstica - Questão 02.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Atividade Diagnóstica - Questão 02\obj\Debug\net10.0\ref\Atividade Diagnóstica - Questão 02.dll
